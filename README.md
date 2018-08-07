@@ -9,4 +9,4 @@ This script takes Nsite output as text copied from HTML page and converts it to 
 
 **Usage**
 
-'<python3 Nsite_parser.py Nsite_output.txt Nsite_table.txt>'
+'python3 Nsite_parser.py Nsite_output.txt Nsite_table.txt'
