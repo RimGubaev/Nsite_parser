@@ -104,12 +104,12 @@ GeneID | Lenght | FactorID | Strand | Mean_exp_value | Found
 107816122 | 1000 bp | RSP00492 | + | 0.00000 | 5
 107816122 | 1000 bp | RSP01644 | + | 0.00376 | 1
 
-**GeneID** corresponds to ```QUERY:``` row which in turn is automatically picked up from sequence header of input fasta file.
-**Lenght** reflects the lenght (```Length of Query Sequence:``` row) of input promoter sequence. 
-**FactorID** corresponds to ```TFBS AC:``` row from regulatory elements database.
-**Strand** indicates whether regulatory element located on '+' or '-' strand.
-**Mean_exp_value** is expected value.
-**Found** is a number of regulatory elements which are found within promoter sequence.
+* **GeneID** corresponds to ```QUERY:``` row which in turn is automatically picked up from sequence header of input fasta file.
+* **Lenght** reflects the lenght (```Length of Query Sequence:``` row) of input promoter sequence. 
+* **FactorID** corresponds to ```TFBS AC:``` row from regulatory elements database.
+* **Strand** indicates whether regulatory element located on '+' or '-' strand.
+* **Mean_exp_value** is expected value.
+* **Found** is a number of regulatory elements which are found within promoter sequence.
 
 
 Email:rimgubaev@gmail.com
