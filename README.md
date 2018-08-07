@@ -12,5 +12,5 @@ This script takes Nsite output as text copied from HTML page and converts it to 
 ```
 python3 Nsite_parser.py Nsite_output.txt Nsite_table.txt
 ```
-* 1st argument is text copied from HTML page (Nsite output)
-* 2nd argument is a tab-delimited text file (Nsite_parser.py output)
+* 1<sup>st</sup> argument is text copied from HTML page (Nsite output)
+* 2<sup>nd</sup> argument is a tab-delimited text file (Nsite_parser.py output)
