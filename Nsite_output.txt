@@ -1,0 +1,312 @@
+
+
+ Program   Nsite | Version 6.2014
+   Search for motifs of   3032 Transcription Factor Binding Sites (TFBS)
+   SET of TFBSs: REGSITE DB: 3032 Plant Transcription Factor Binding Sites [Last update: 13.07.2016]; Softberry Inc.
+
+ Search PARAMETRS:
+     Expected  Mean  Number                      :  0.0100000
+     Statistical Siginicance Level               :  0.9500000
+     Level of homology between known TFBS and motif:   80%
+     Variation of Distance between TFBS Blocks     :   20%
+
+ NOTE: Mism. - Mismatches   | Mean. Exp. Number - Mean Expected Number   | Up.Conf.Int. - Upper Confidence Interval
+       Mismatches are given in Lower case
+____________________________________________________________
+
+ QUERY: 1466315
+ Length of Query Sequence:       1000 bp     | Nucleotide Frequencies:  A -  0.35   G -  0.20   T -  0.30   C -  0.14
+
+
+ TFBS AC: RSP00039//OS: tomato (Lycopersicon esculentum), Lycopersicon esculentum /GENE: LAT56; LAT59;/TFBS: 56/59 box /BF: GT-1 related transcription factors
+ Motifs on "+" Strand: Mean Exp. Number   0.00202     Up.Conf.Int.  1     Found   1
+     324  TGAAATTGTGA      334 (Mism.= 0)
+
+ TFBS AC: RSP00314//OS: arabidopsis (Arabidopsis thaliana) /GENE: GA3/TFBS: rbe /BF: RSG, a bZIP transcriptional activator;
+ Motifs on "+" Strand: Mean Exp. Number   0.00554     Up.Conf.Int.  1     Found   1
+     906  TCCAAaTTGGA      916 (Mism.= 1)
+
+ Motifs on "-" Strand: Mean Exp. Number   0.00754     Up.Conf.Int.  1     Found   1
+     916  TCCAAtTTGGA      906 (Mism.= 1)
+
+ TFBS AC: RSP00717//OS: arabidopsis (Arabidopsis thaliana) /GENE: Adh/TFBS: ARE /BF: unknown transcription factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00001     Up.Conf.Int.  1     Found   1
+      88  GCcgtACCAAATAtGCCCCT      107 (Mism.= 4)
+
+ TFBS AC: RSP01555//OS: Vigna mungo /GENE: alpha-amylase (Vm)/TFBS: TGACGT motif 1 /BF: unknown transcription factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00239     Up.Conf.Int.  1     Found   1
+      56  TTGgTGACGTtATT       69 (Mism.= 2)
+
+ TFBS AC: RSP02003//OS: Arabidopsis (Arabidopsis thaliana)\ /GENE: ABI5/TFBS: W-box 4 /BF: WRKY40
+ Motifs on "-" Strand: Mean Exp. Number   0.00783     Up.Conf.Int.  1     Found   1
+     172  CGtTGTCACGtT      161 (Mism.= 2)
+
+ TFBS AC: RSP02902//OS: Arabidopsis (Arabidopsis thaliana) /GENE: OLE1/TFBS: GBL3 BS /BF: B3 AFL TFs
+ Motifs on "+" Strand: Mean Exp. Number   0.00884     Up.Conf.Int.  1     Found   1
+     159  CAAACGTGaC      168 (Mism.= 1)
+
+
+ Totally       7 motifs of     6 different TFBSs have been found
+____________________________________________________________
+
+ QUERY: 3205204
+ Length of Query Sequence:       1000 bp     | Nucleotide Frequencies:  A -  0.28   G -  0.22   T -  0.28   C -  0.22
+
+
+ TFBS AC: RSP00130//OS: soybean (Glycine max) /GENE: GmAux28/TFBS: C2 /BF: unknown nuclear factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00236     Up.Conf.Int.  1     Found   1
+     569  tATtATtATAATAATAAAaA      588 (Mism.= 4)
+
+ Motifs on "-" Strand: Mean Exp. Number   0.00208     Up.Conf.Int.  1     Found   1
+     584  tATtATtATAATAATAtATA      565 (Mism.= 4)
+
+ TFBS AC: RSP00157//OS: soybean (Glycine max) /GENE: GmAux28/TFBS: D2 /BF: unknown nuclear factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00789     Up.Conf.Int.  1     Found   1
+     558  ATTTATATAtAT      569 (Mism.= 1)
+
+ Motifs on "-" Strand: Mean Exp. Number   0.00789     Up.Conf.Int.  1     Found   1
+     569  ATaTATATAAAT      558 (Mism.= 1)
+
+ TFBS AC: RSP00576//OS: tomato (Lycopersicon esculentum), Lycopersicon esculentum /GENE: rbcS3A/TFBS: AT-rich FF1 /BF: unknown nuclear factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00180     Up.Conf.Int.  1     Found   2
+     559  TtTATaTAtaTATTATTATA      578 (Mism.= 4)
+     565  TATATaTtATTATaATaATA      584 (Mism.= 4)
+
+ Motifs on "-" Strand: Mean Exp. Number   0.00190     Up.Conf.Int.  1     Found   1
+     594  TtaATCTttTTATTATTATA      575 (Mism.= 4)
+
+ TFBS AC: RSP00584//OS: tomato (Lycopersicon esculentum), Lycopersicon esculentum /GENE: rbcS3A/TFBS: TSS MM /BF: unknown nuclear factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00967     Up.Conf.Int.  1     Found   1
+      78  AACCCTCTGTAGT       90 (Mism.= 2)
+
+ TFBS AC: RSP00788//OS: rice (Oryza sativa) /GENE: osRACD/TFBS: AT1 box /BF: unknown transcription factor
+ Motifs on "-" Strand: Mean Exp. Number   0.00819     Up.Conf.Int.  1     Found   1
+     592  AATcTTTTTATT      581 (Mism.= 1)
+
+ TFBS AC: RSP00802//OS: potato (Solanum tuberosum) /GENE: patatin 21/TFBS: Box A-1 /BF: BABF
+ Motifs on "+" Strand: Mean Exp. Number   0.00222     Up.Conf.Int.  1     Found   2
+     545  tTATATATATATTATtTAta      564 (Mism.= 4)
+     558  ATtTATATATATatTATtAT      577 (Mism.= 4)
+
+ Motifs on "-" Strand: Mean Exp. Number   0.00222     Up.Conf.Int.  1     Found   2
+     569  ATATATATAaATaATATAta      550 (Mism.= 4)
+     567  ATATATAaATAaTATATAta      548 (Mism.= 4)
+
+ TFBS AC: RSP01463//OS: soybean (Glycine max) /GENE: BiP6/TFBS: AT-rich ELS /BF: Unknown transcription factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00233     Up.Conf.Int.  1     Found   1
+     558  ATTTATATATaTA      570 (Mism.= 1)
+
+ TFBS AC: RSP01712//OS: tomato (Solanum lycopersicum) /GENE: LeACS2/TFBS: RIN BS /BF: RIN
+ Motifs on "+" Strand: Mean Exp. Number   0.00201     Up.Conf.Int.  1     Found   1
+     520  CTAAAAAAAG      529 (Mism.= 0)
+
+ TFBS AC: RSP01897//OS: Arabidopsis (Arabidopsis thaliana) /GENE: MYB44 (At5g67300)/TFBS: VRE1 /BF: VIP1
+ Motifs on "-" Strand: Mean Exp. Number   0.00395     Up.Conf.Int.  1     Found   1
+     921  ACAGCTGTA      913 (Mism.= 0)
+
+ TFBS AC: RSP02013//OS: rice (Oryza sativa) /GENE: BRI1/TFBS: E-box (BRI1, P1_3) /BF: RAVL1
+ Motifs on "+" Strand: Mean Exp. Number   0.00110     Up.Conf.Int.  1     Found   1
+     913  TACAGCTGTT      922 (Mism.= 0)
+
+ TFBS AC: RSP02192//OS: tomato (Lycopersicon esculentum) /GENE: RIN/TFBS: CArG (RIN-a) /BF: RIN
+ Motifs on "+" Strand: Mean Exp. Number   0.00201     Up.Conf.Int.  1     Found   1
+     520  CTAAAAAAAG      529 (Mism.= 0)
+
+ TFBS AC: RSP02418//OS: rice (Oryza sativa. japonica) /GENE: BDP 6-5/TFBS: CRE 78-82/85-87 /BF: unknown nuclear factor
+ Motifs on "-" Strand: Mean Exp. Number   0.00624     Up.Conf.Int.  1     Found   1
+     247  TCGATATTGG      238 (Mism.= 1)
+
+ TFBS AC: RSP02521//OS: rice (Oryza sativa, japonica) /GENE: Peroxidase 24 precursor/TFBS: DBS /BF: DST
+ Motifs on "+" Strand: Mean Exp. Number   0.00534     Up.Conf.Int.  1     Found   1
+      39  CAAATAGCA       47 (Mism.= 0)
+
+
+ Totally      20 motifs of    13 different TFBSs have been found
+____________________________________________________________
+
+ QUERY: 107758969
+ Length of Query Sequence:         84 bp     | Nucleotide Frequencies:  A -  0.30   G -  0.25   T -  0.25   C -  0.20
+
+
+ TFBS AC: RSP00042//OS: pea (Pisum sativum) /GENE: PSPAL2/TFBS: Motif h /BF: epicotyl-specific nuclear factor
+ Motifs on "-" Strand: Mean Exp. Number   0.00803     Up.Conf.Int.  1     Found   1
+      33  AATTCTA       27 (Mism.= 0)
+
+ TFBS AC: RSP00713//OS: barley (Hordeum vulgare) /GENE: HvLTP2/TFBS: MYC RS /BF: MYC
+ Motifs on "+" Strand: Mean Exp. Number   0.00442     Up.Conf.Int.  1     Found   1
+      46  CAGCTGA       52 (Mism.= 0)
+
+ TFBS AC: RSP02448//OS: Arabidopsis (Arabidopsis thaliana) /GENE: ANAC019/TFBS: HB04/HB53 BS /BF: HB04; HB53
+ Motifs on "-" Strand: Mean Exp. Number   0.00627     Up.Conf.Int.  1     Found   1
+      18  cCATTATTG       10 (Mism.= 1)
+
+ TFBS AC: RSP02846//OS: tomato (Solanum lycopersicum) /GENE: DWF5/TFBS: P box 1 /BF: JRE-4
+ Motifs on "+" Strand: Mean Exp. Number   0.00700     Up.Conf.Int.  1     Found   1
+      59  CAGCACGCac       68 (Mism.= 2)
+
+
+ Totally       4 motifs of     4 different TFBSs have been found
+____________________________________________________________
+
+ QUERY: 107758979
+ Length of Query Sequence:        329 bp     | Nucleotide Frequencies:  A -  0.36   G -  0.11   T -  0.28   C -  0.25
+
+
+ TFBS AC: RSP00279//OS: arabidopsis (Arabidopsis thaliana) /GENE: A-p40/TFBS: inverted telo box /BF: unknown factor
+ Motifs on "-" Strand: Mean Exp. Number   0.00874     Up.Conf.Int.  1     Found   1
+     156  TTAGGGTTT      148 (Mism.= 0)
+
+ TFBS AC: RSP00369//OS: arabidopsis (Arabidopsis thaliana) /GENE: eEF1AA1/TFBS: telo-box /BF: unknown nuclear factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00874     Up.Conf.Int.  1     Found   1
+     148  AAACCCTAA      156 (Mism.= 0)
+
+ TFBS AC: RSP00448//OS: pea, Pisum sativum /GENE: rp L9/TFBS: TTAGGGTTTT-box /BF: unknown nuclear factor
+ Motifs on "-" Strand: Mean Exp. Number   0.00874     Up.Conf.Int.  1     Found   1
+     156  TTAGGGTTT      148 (Mism.= 0)
+
+ TFBS AC: RSP00453//OS: pea (Pisum sativum) /GENE: PSPAL2/TFBS: Motif d /BF: epicotyl-specific nuclear factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00253     Up.Conf.Int.  1     Found   1
+     238  TCATtctCAAGTATCAA      254 (Mism.= 3)
+
+ TFBS AC: RSP00557//OS: tomato (Lycopersicon esculentum), Lycopersicon esculentum /GENE: rbcS3C/TFBS: UN U2 /BF: unknown nuclear factor
+ Motifs on "-" Strand: Mean Exp. Number   0.00786     Up.Conf.Int.  1     Found   1
+     141  TTgTGtTTTTTgTTTC      126 (Mism.= 3)
+
+ TFBS AC: RSP00874//OS: maize (Zea mays) /GENE: Synthetic oligonucleotids/TFBS: Dof3 BSopt /BF: Dof3
+ Motifs on "-" Strand: Mean Exp. Number   0.00325     Up.Conf.Int.  1     Found   1
+     100  TTTTAAAGGGG       90 (Mism.= 0)
+
+ TFBS AC: RSP01018//OS: arabidopsis (Arabidopsis thaliana) /GENE: GapA/TFBS: XXIII/GATA-1 /BF: GATA-1
+ Motifs on "+" Strand: Mean Exp. Number   0.00088     Up.Conf.Int.  1     Found   1
+       6  TATCCCAAACCTAATC       21 (Mism.= 3)
+
+ TFBS AC: RSP01166//OS: maize (Zea mays) /GENE: pMS1/TFBS: CCAAT box /BF: HMG proteins
+ Motifs on "-" Strand: Mean Exp. Number   0.00349     Up.Conf.Int.  1     Found   1
+     128  tTCTTTTTGaAAATTt      113 (Mism.= 3)
+
+ TFBS AC: RSP01338//OS: oat (Avena fatua) /GENE: PHYA/TFBS: T5-6-T5 /BF: PF1
+ Motifs on "-" Strand: Mean Exp. Number   0.00089     Up.Conf.Int.  1     Found   1
+     147  TTTTTCTTGTGTTTTT      132 (Mism.= 3)
+
+ TFBS AC: RSP01499//OS: wheat (Triticum aestivum) /GENE: H1 (TH315)/TFBS: CS6 /BF:unknown transcriptin factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00685     Up.Conf.Int.  1     Found   1
+     304  TTCgCCGTCT      313 (Mism.= 1)
+
+ TFBS AC: RSP01500//OS: wheat (Triticum aestivum) /GENE: H1 (TH325)/TFBS: CS6 /BF:unknown transcriptin factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00685     Up.Conf.Int.  1     Found   1
+     304  TTCgCCGTCT      313 (Mism.= 1)
+
+ TFBS AC: RSP02308//OS: Arabidopsis (Arabidopsis thaliana) /GENE: ICS1/TFBS: WRKY28 BS (m2.5) /BF: WRKY28
+ Motifs on "-" Strand: Mean Exp. Number   0.00721     Up.Conf.Int.  1     Found   1
+      77  tgTCTGACAAAT       66 (Mism.= 2)
+
+ TFBS AC: RSP02318//OS: Arabidopsis (Arabidopsis thaliana) /GENE: CENH3/TFBS: E2F BS /BF: E2F
+ Motifs on "+" Strand: Mean Exp. Number   0.00635     Up.Conf.Int.  1     Found   1
+     168  ACGGGAAA      175 (Mism.= 1)
+
+ TFBS AC: RSP02326//OS: Arabidopsis (Arabidopsis thaliana) /GENE: BiP2/TFBS: TL1 /BF: TBF1
+ Motifs on "+" Strand: Mean Exp. Number   0.00091     Up.Conf.Int.  1     Found   1
+      27  GAAGAAGAA       35 (Mism.= 0)
+
+ TFBS AC: RSP02861//OS: Arabidopsis (Arabidopsis thaliana) /GENE: AtPES/TFBS: TELO-box /BF: unknown nuclear factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00874     Up.Conf.Int.  1     Found   1
+     148  AAACCCTAA      156 (Mism.= 0)
+
+ TFBS AC: RSP02898//OS: Arabidopsis (Arabidopsis thaliana) /GENE: Synthetic oligonucleotides/TFBS: bHLH/bZIP/NAC TFs BS /BF: bHLH, bZIP, NAC TF
+ Motifs on "-" Strand: Mean Exp. Number   0.00974     Up.Conf.Int.  1     Found   1
+      31  TCTtCTCtAC       22 (Mism.= 2)
+
+
+ Totally      16 motifs of    16 different TFBSs have been found
+____________________________________________________________
+
+ QUERY: 107816122
+ Length of Query Sequence:       1000 bp     | Nucleotide Frequencies:  A -  0.36   G -  0.16   T -  0.30   C -  0.18
+
+
+ TFBS AC: RSP00140//OS: pea,Pisum sativum /GENE: rbcS-3.6/TFBS: AT-1 (2) /BF: AT-1
+ Motifs on "+" Strand: Mean Exp. Number   0.00488     Up.Conf.Int.  1     Found   1
+     647  AtTTATTTTTATT      659 (Mism.= 1)
+
+ TFBS AC: RSP00176//OS: tobacco (Nicotiana tabacum); arabidopsis (Arabidopsis thaliana) /GENE: CHN48/TFBS: GCC-box /BF: EREBP
+ Motifs on "-" Strand: Mean Exp. Number   0.00153     Up.Conf.Int.  1     Found   1
+     621  TAAGAGCCGaC      611 (Mism.= 1)
+
+ TFBS AC: RSP00492//OS: maize (Zea mays) /GENE: Zc2/TFBS: Zc2 A/T-2 /BF: nuclear factor of apparent molecular mass 30 kDa
+ Motifs on "+" Strand: Mean Exp. Number   0.00000     Up.Conf.Int.  1     Found   5
+     764  taAgAaAatTccATATATATATATATATATATATATATATAT      805 (Mism.= 8)
+     766  AgAaAatTccATATATATATATATATATATATATATATATtg      807 (Mism.= 8)
+     768  AaAatTccATATATATATATATATATATATATATATATtgcT      809 (Mism.= 8)
+     770  AatTccATATATATATATATATATATATATATATATtgcTAT      811 (Mism.= 7)
+     772  tTccATATATATATATATATATATATATATATATtgcTATtg      813 (Mism.= 8)
+
+ Motifs on "-" Strand: Mean Exp. Number   0.00000     Up.Conf.Int.  1     Found   5
+     813  caATAgcaATATATATATATATATATATATATATATATggAa      772 (Mism.= 8)
+     811  ATAgcaATATATATATATATATATATATATATATATggAatT      770 (Mism.= 7)
+     809  AgcaATATATATATATATATATATATATATATATggAatTtT      768 (Mism.= 8)
+     807  caATATATATATATATATATATATATATATATggAatTtTcT      766 (Mism.= 8)
+     805  ATATATATATATATATATATATATATATATggAatTtTcTta      764 (Mism.= 8)
+
+ TFBS AC: RSP00508//OS: soybean (Glycine max) /GENE: beta-conglicinin alfa'/TFBS: SEF4 BS /BF: SEF4
+ Motifs on "+" Strand: Mean Exp. Number   0.00416     Up.Conf.Int.  1     Found   1
+     869  tCATTTTTATCA      880 (Mism.= 1)
+
+ TFBS AC: RSP00556//OS: tomato (Lycopersicon esculentum), Lycopersicon esculentum /GENE: rbcS3C/TFBS: UN U1 /BF: unknown nuclear factor
+ Motifs on "-" Strand: Mean Exp. Number   0.00471     Up.Conf.Int.  1     Found   1
+     296  GAAgtAGCAAAtGCAA      281 (Mism.= 3)
+
+ TFBS AC: RSP01118//OS: Agrobacterium tumefaciens (Ti-plasmid) /GENE: ags/TFBS: RE IV /BF: unknown nuclear factor
+ Motifs on "-" Strand: Mean Exp. Number   0.00160     Up.Conf.Int.  1     Found   1
+     208  AAATgGCGaACTtCAG      193 (Mism.= 3)
+
+ TFBS AC: RSP01303//OS: Arabidopsis (Arabidopsis thaliana) /GENE: A1 EF-1alpha/TFBS: Telo box /BF: unknown nuclear factor
+ Motifs on "-" Strand: Mean Exp. Number   0.00915     Up.Conf.Int.  1     Found   1
+     899  TgAACCCTAA      890 (Mism.= 1)
+
+ TFBS AC: RSP01304//OS: tomato (Lycopersicon esculentum) /GENE: A1 EF-1alpha/TFBS: Telo box /BF: unknown nuclear factor
+ Motifs on "-" Strand: Mean Exp. Number   0.00711     Up.Conf.Int.  1     Found   1
+     899  TGAACCCTAA      890 (Mism.= 0)
+
+ TFBS AC: RSP01497//OS: wheat (Triticum aestivum) /GENE: H1 (TH315)/TFBS: CS5 /BF:unknown transcriptin factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00482     Up.Conf.Int.  1     Found   1
+     608  GCCGTCGGcT      617 (Mism.= 1)
+
+ TFBS AC: RSP01498//OS: wheat (Triticum aestivum) /GENE: H1 (TH325)/TFBS: CS5 /BF:unknown transcriptin factor
+ Motifs on "+" Strand: Mean Exp. Number   0.00482     Up.Conf.Int.  1     Found   1
+     608  GCCGTCGGcT      617 (Mism.= 1)
+
+ TFBS AC: RSP01644//OS: tobacco (Nicotiana tabacum) /GENE: tpoxN1/TFBS: VWRE (np5-1) /BF: WRAF1; WRAF2
+ Motifs on "+" Strand: Mean Exp. Number   0.00376     Up.Conf.Int.  1     Found   1
+     762  TgTAAGAAAATTC      774 (Mism.= 1)
+
+ TFBS AC: RSP01718//OS: Arabidopsis (Arabidopsis thaliana) /GENE: IAA3/SHY2 (At1g04240)/TFBS: G/A-box (1) /BF: STF1/HY5
+ Motifs on "-" Strand: Mean Exp. Number   0.00391     Up.Conf.Int.  1     Found   1
+     766  TTACACGTAcAA      755 (Mism.= 1)
+
+ TFBS AC: RSP01747//OS: Arabidopsis (Arabidopsis thaliana) /GENE: AtWRKY11 (At4g31550)/TFBS: WRKY11 BS1 /BF: WRKY11
+ Motifs on "-" Strand: Mean Exp. Number   0.00279     Up.Conf.Int.  1     Found   1
+     450  aGtTTGACCTTTC      438 (Mism.= 2)
+
+ TFBS AC: RSP02004//OS: Arabidopsis (Arabidopsis thaliana) /GENE: ABI5/TFBS: W-box 5 /BF: WRKY40
+ Motifs on "+" Strand: Mean Exp. Number   0.00371     Up.Conf.Int.  1     Found   1
+     632  TTAtGTCATTTA      643 (Mism.= 1)
+
+ TFBS AC: RSP02231//OS: Arabidopsis (Arabidopsis thaliana) /GENE: Synthetic oligonucleotides/TFBS: GCC-consensus /BF: ERF1
+ Motifs on "+" Strand: Mean Exp. Number   0.00712     Up.Conf.Int.  1     Found   1
+     604  CGCCGCCG      611 (Mism.= 0)
+
+ TFBS AC: RSP02236//OS: rice (Oryza sativa) /GENE: Synthetic oligonucleotides/TFBS: obs1 /BF: OsEIL1; OsEIL2
+ Motifs on "+" Strand: Mean Exp. Number   0.00037     Up.Conf.Int.  1     Found   1
+     975  AACcATGTACCTcGcC      990 (Mism.= 3)
+
+ TFBS AC: RSP02722//OS: rice (Oryza sativa) /GENE: AK065090/TFBS: IDE2 (2) /BF: IDEF2
+ Motifs on "-" Strand: Mean Exp. Number   0.00524     Up.Conf.Int.  1     Found   1
+     765  tACACGTACAa      755 (Mism.= 2)
+
+ TFBS AC: RSP02848//OS: Duncan grapefruit, Citrus sinensis /GENE: CsLOB1/TFBS: EBE /BF: PthA4
+ Motifs on "+" Strand: Mean Exp. Number   0.00160     Up.Conf.Int.  1     Found   1
+     508  tAAtCAAAtTTCAAGtCAAA      527 (Mism.= 4)
+
+
+ Totally      27 motifs of    18 different TFBSs have been found
+____________________________________________________________
