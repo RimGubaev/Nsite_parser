@@ -96,10 +96,23 @@ etc...
 
 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+GeneID | Lenght | FactorID | Strand | Mean_exp_value | Found 
+-------| -------|----------|--------|----------------|-------
+1466315 | 1000 bp | RSP00039 | 0.00202 | 1 
+1466315	1000 bp	RSP00314	+	0.00554	1
+
+
+GeneID	Lenght	FactorID	Strand	Mean_exp_value	Found
+1466315	1000 bp	RSP00039	+	0.00202	1
+1466315	1000 bp	RSP00314	+	0.00554	1
+1466315	1000 bp	RSP00314	-	0.00754	1
+1466315	1000 bp	RSP00717	+	0.00001	1
+1466315	1000 bp	RSP01555	+	0.00239	1
+1466315	1000 bp	RSP02003	-	0.00783	1
+1466315	1000 bp	RSP02902	+	0.00884	1
+3205204	1000 bp	RSP00130	+	0.00236	1
+3205204	1000 bp	RSP00130	-	0.00208	1
+
 
 Email:rimgubaev@gmail.com
 
