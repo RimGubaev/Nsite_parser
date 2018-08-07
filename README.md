@@ -94,7 +94,7 @@ etc...
 
 **Sample output**
 
-GeneID | Lenght | FactorID | Strand | Mean_exp_value | Found 
+GeneID | Length | FactorID | Strand | Mean_exp_value | Found 
 -------| -------|----------|--------|----------------|-------
 1466315 | 1000 bp | RSP00039 | + | 0.00202 | 1 
 1466315 | 1000 bp | RSP00314 | + | 0.00554 | 1
@@ -105,7 +105,7 @@ GeneID | Lenght | FactorID | Strand | Mean_exp_value | Found
 107816122 | 1000 bp | RSP01644 | + | 0.00376 | 1
 
 * **GeneID** corresponds to ```QUERY:``` row which in turn is automatically picked up from sequence header of input fasta file.
-* **Lenght** reflects the lenght (```Length of Query Sequence:``` row) of input promoter sequence. 
+* **Length** reflects the lenght (```Length of Query Sequence:``` row) of input promoter sequence. 
 * **FactorID** corresponds to ```TFBS AC:``` row from regulatory elements database.
 * **Strand** indicates whether regulatory element located on '+' or '-' strand.
 * **Mean_exp_value** is expected value.
