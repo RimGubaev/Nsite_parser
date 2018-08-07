@@ -79,7 +79,7 @@ ____________________________________________________________
  Motifs on "+" Strand: Mean Exp. Number   0.00201     Up.Conf.Int.  1     Found   1
      520  CTAAAAAAAG      529 (Mism.= 0)
 
- TFBS AC: RSP01897//OS: Arabidopsis (Arabidopsis thaliana) /GENE: MYB44 (At5g67300)/TFBS: VRE1 /BF: VIP1
+ TFBS AC: **RSP01897//OS**: Arabidopsis (Arabidopsis thaliana) /GENE: MYB44 (At5g67300)/TFBS: VRE1 /BF: VIP1
  Motifs on "-" Strand: Mean Exp. Number   0.00395     Up.Conf.Int.  1     Found   1
      921  ACAGCTGTA      913 (Mism.= 0)
 
@@ -91,4 +91,12 @@ ____________________________________________________________
 ____________________________________________________________
 etc...
 ```
+
+**Sample output**
+
+
+```
+
+
+Email:rimgubaev@gmail.com
 
