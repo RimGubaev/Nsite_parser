@@ -19,9 +19,9 @@ with open(a) as inf:
             FactorID = line[9:17] # saving TF binding site ID name into FactorID variable untill next TF binding site
             #print(FactorID)
         if line[0:25] == 'Length of Query Sequence:':
-            Lenght = re.search('\d+\sbp', line).group(0) # saving the promoter sequence lenght (по регулярному выражению)
+            Lenght = re.search('\d+\sbp', line).group(0) # saving the promoter sequence length (по регулярному выражению)
         if 'Motifs' in line:
-            Strand = line[line.find('" Strand:')-1] # saving TF binding site ID name into FactorID variable untill next TF binding site
+            Strand = line[line.find('" Strand:')-1] # saving TF binding site ID name into FactorID variable until next TF binding site
             #print(Strand)
             Mean_exp_value = re.search('\d\.\d+',line).group(0) # saving the Mean Exp. Number
             #print(Mean_exp_value)
